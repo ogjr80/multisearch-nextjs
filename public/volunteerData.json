@@ -1,0 +1,29 @@
+{
+    "New York": {
+      "distances": ["5 miles", "10 miles", "20 miles", "50 miles"],
+      "opportunities": [
+        {
+          "type": "Eradicate Poverty",
+          "subcategories": ["Feed the Girls", "Feed the Homeless"]
+        },
+        {
+          "type": "Education",
+          "subcategories": ["Tutoring", "Mentorship"]
+        }
+      ]
+    },
+    "Los Angeles": {
+      "distances": ["5 miles", "10 miles", "20 miles", "50 miles"],
+      "opportunities": [
+        {
+          "type": "Environment",
+          "subcategories": ["Tree Planting", "Beach Clean-up"]
+        },
+        {
+          "type": "Animal Welfare",
+          "subcategories": ["Pet Adoption", "Wildlife Conservation"]
+        }
+      ]
+    }
+  }
+  
